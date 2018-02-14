@@ -3,6 +3,8 @@ Bridge workshop connecting MS Azure IoTHub with mbed Cloud
 
 Updates:
 
+- 02/14/2018: Update to v2.3
+
 - 10/3/2017: Initial checking with v2.2 workshop release content
 
 Links for the workshop
