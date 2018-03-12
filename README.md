@@ -40,9 +40,11 @@ Links for the workshop
 
       git clone https://github.com/ARMmbed/connector-bridge-container-installer
 
-JSON sample used as command to send to device:
+JSON sample used as command to send to device (using CoAP "PUT" verb with a new_value to be set):
 
-      {"path":"/311/0/5850", "ep":"ENDPOINT_NAME_GOES_HERE", "new_value":"0","coap_verb":"put"}
+      Topic:  /mbed/put/<ENDPOINT_TYPE_GOES_HERE>/<ENDPOINT_NAME_GOES_HERE>/311/0/5850
+
+      Payload: {"path":"/311/0/5850", "ep":"ENDPOINT_NAME_GOES_HERE", "new_value":"0","coap_verb":"put"}
 
 Bridge Runtime Source (Apache 2 licensed)
 
