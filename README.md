@@ -43,3 +43,7 @@ Links for the workshop
 JSON sample used as command to send to device:
 
       {"path":"/311/0/5850", "ep":"ENDPOINT_NAME_GOES_HERE", "new_value":"0","coap_verb":"put"}
+
+Bridge Runtime Source (Apache 2 licensed)
+
+      https://github.com/ARMmbed/connector-bridge
