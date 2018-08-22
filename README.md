@@ -1,7 +1,9 @@
 # bridge_workshop_ms_iothub_cloud
-Bridge workshop connecting MS Azure IoTHub with mbed Cloud
+Bridge workshop connecting MS Azure IoTHub with mbed Cloud (Pelion Device Management)
 
 Updates:
+
+- 08/22/2018: Update to v2.5 - FYI Connector support has been EOLed 
 
 - 04/03/2018: Update to v2.4
 
