@@ -52,4 +52,4 @@ JSON sample used as command to send to device (using CoAP "PUT" verb with a new_
 
 Bridge Runtime Source (Apache 2 licensed)
 
-      https://github.com/ARMmbed/connector-bridge
+      https://github.com/ARMmbed/pelion-bridge
